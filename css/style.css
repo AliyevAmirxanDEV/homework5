@@ -1,0 +1,94 @@
+.header {
+  text-align: center;
+  height: 45px;
+  top: -2px;
+  left: 474px;
+}
+
+.selection {
+    background-color: #F4F4F4;
+}
+
+.selection-btn {
+  width: 189px;
+  height: 40px;
+  flex-shrink: 0;
+  border-radius: 30px;
+  background: #6f2cff;
+  border: none;
+}
+
+.btn-1 {
+  color: #fff;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+  text-decoration: none;
+}
+
+.selection-btn2 {
+  background-color: white;
+}
+
+.btn-2 {
+  color: #6f2cff;
+}
+
+.image-title2 {
+  color: #000;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 45px;
+}
+
+.text-title2 {
+  color: #000;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+.paragrif-title3 {
+  color: #f5f5f5;
+  font-family: Roboto;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+}
+
+.cosmetics {
+  width: 492.857px;
+  height: 199px;
+  flex-shrink: 0;
+  border-radius: 8px 10px 10px 8px;
+  background: #17002e;
+}
+
+.text-title3 {
+  color: white;
+}
+
+.line {
+  width: 383.571px;
+  height: 2px;
+  flex-shrink: 0;
+  background: #f5f5f5;
+}
+
+.Airlines {
+  width: 492.857px;
+  height: 199px;
+  flex-shrink: 0;
+  border-radius: 8px 10px 10px 8px;
+  background: #17002e;
+}
